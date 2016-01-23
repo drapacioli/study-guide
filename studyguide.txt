@@ -18,6 +18,8 @@ In distributed version control systems, every developer has a full local copy of
 
 What does a version control program do for us?
 
+A version control program manages and records the versions of the files on our project, automating many aspects of a versioning system to make working with version control easier and less time-consuming. This allows a developer to spend more time working with code and less time working inside a file system.
+
 4 Committing to git
 
 What is a commit?
