@@ -24,6 +24,8 @@ A version control program manages and records the versions of the files on our p
 
 What is a commit?
 
+A commit is a command used by git that will record the snapshots of the files being tracked and added to the commit. This creates a version history of the file for that commit and allows us to pull that file or view its changes later on if the need arises.
+
 5 Checking out git
 
 What is a check out?
