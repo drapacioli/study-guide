@@ -128,6 +128,8 @@ Git is 100% free, distributed, and widely used by many developers. Because of it
 
 What were the design criteria for git?
 
+Git was strongly inspired by existing software at the time, but was written to be faster and more accomodating for things such as nonlinear development. It was also free and open source.
+
 20 Time machine
 
 How do we view the past of a project with git?
