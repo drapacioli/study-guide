@@ -80,6 +80,12 @@ git status
 
 How do you add files to the repository?
 
+git add $FILENAME
+
+where $FILENAME is the name of the file you wish to add to the repository
+
+(Alternatively, if you wish to add all files in the directory to the repository, you can use "git add ." or "git add --all")
+
 13 The main line
 
 What is the name for the primary branch in git?
