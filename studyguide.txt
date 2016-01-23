@@ -148,3 +148,4 @@ It is seemingly infinite, however longer messages are harder to read, so short a
 If there was a mistake made in the past of a project, how should we go about
 correcting that mistake?
 
+DO NOT ERASE HISTORY AND DELETE YOURSELF FROM THE TIMELINE! Make the correct changes and make a new commit. If you must, you can pull a specific file from an old version to revert changes without messing with the historical logs or files.
