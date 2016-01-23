@@ -56,6 +56,10 @@ Where $BRANCH_NAME is the name of the branch to be created.
 
 How do you switch branches in git?
 
+git checkout $BRANCH_NAME
+
+where $BRANCH_NAME is the name of the branch you wish to switch to
+
 10 Taping it together
 
 How do you merge branches in git?
