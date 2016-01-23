@@ -134,6 +134,8 @@ Git was strongly inspired by existing software at the time, but was written to b
 
 How do we view the past of a project with git?
 
+We can use "git log" (and use several different variants of it such as --stat or --oneline to modify the log as desired to get the information needed).
+
 21 Commit Comment
 
 How much information, and what kind of information should be in a commit
