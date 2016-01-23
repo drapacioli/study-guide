@@ -30,6 +30,8 @@ A commit is a command used by git that will record the snapshots of the files be
 
 What is a check out?
 
+checkout allows you to switch branches or pull files or commits from the history and otherwise mess with the timeline (dangerous!)
+
 6 It’s like a tree limb
 
 What is a branch?
