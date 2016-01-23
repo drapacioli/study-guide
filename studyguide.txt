@@ -42,6 +42,8 @@ A branch is a separate set of files in the repository for modifying files withou
 
 How long are branches in git supposed to exist?
 
+Until you are ready to merge and delete it. Without user interaction...for as long as the project remains in existence.
+
 8 Tree growth
 
 How do you create a branch in git?
