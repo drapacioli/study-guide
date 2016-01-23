@@ -36,6 +36,8 @@ checkout allows you to switch branches or pull files or commits from the history
 
 What is a branch?
 
+A branch is a separate set of files in the repository for modifying files without affecting the other branches or the master file. It functions similarly to a pointer in many programming languages, except no weird memory allocation issues tend to appear when you don't know what you're doing. 
+
 7 The life of a limb
 
 How long are branches in git supposed to exist?
