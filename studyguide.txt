@@ -48,6 +48,8 @@ Until you are ready to merge and delete it. Without user interaction...for as lo
 
 How do you create a branch in git?
 
+git branch $BRANCH_NAME
+
 9 Swinging on a vine
 
 How do you switch branches in git?
