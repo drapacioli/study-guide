@@ -90,6 +90,8 @@ where $FILENAME is the name of the file you wish to add to the repository
 
 What is the name for the primary branch in git?
 
+master
+
 14 What limb are you on?
 
 How do you check which branch you presently have checked out?
