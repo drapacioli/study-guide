@@ -122,6 +122,8 @@ I also strongly suspect that there are plenty of moments where developers decide
 
 What makes git different than other version control systems?
 
+Git is 100% free, distributed, and widely used by many developers. Because of its wide use and easy access, it has become the de facto standard of source code management software. 
+
 19 What were they thinking?!
 
 What were the design criteria for git?
