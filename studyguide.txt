@@ -102,6 +102,8 @@ git branch
 
 What is github?
 
+It is a web-based git repository that can function as a host to a git project or even as a way to edit and work on git projects that you or some developer you work with to have access to.
+
 16 We see a need!
 
 Why was git created?
