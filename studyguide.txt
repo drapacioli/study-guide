@@ -114,6 +114,10 @@ Because several people decided there was a need for it that existing source cont
 
 What is a typical git workflow?
 
+A typical git workflow varies per person, company, or team, but in most cases a person or group works on a mirror copy of the repository on their local machine, creates local commits, tests their software (either in the main or a different branch) then pushes their branch to the central repository when they are satisfied with their work. 
+
+I also strongly suspect that there are plenty of moments where developers decide to discard changes by pulling an old version of a file or files when they realize they made a mistake, but of course everyone is a good developer and they always move forward and don't delete their mistakes from the system, right?
+
 18 Why git?
 
 What makes git different than other version control systems?
