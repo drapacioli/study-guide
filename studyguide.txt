@@ -108,6 +108,8 @@ It is a web-based git repository that can function as a host to a git project or
 
 Why was git created?
 
+Because several people decided there was a need for it that existing source control management didn't satisfy, and had the time to create it. Specifically, a group of linux kernel developers wanted a distributed system with a very light resource load and no expensive subscription or purchase costs.
+
 17 A day in the life of git
 
 What is a typical git workflow?
