@@ -141,6 +141,8 @@ We can use "git log" (and use several different variants of it such as --stat or
 How much information, and what kind of information should be in a commit
 message?
 
+It is seemingly infinite, however longer messages are harder to read, so short and concise is the trick. Information should explain what was done since the last commit.
+
 22 Great Scott!
 
 If there was a mistake made in the past of a project, how should we go about
