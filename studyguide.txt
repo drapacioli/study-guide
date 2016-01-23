@@ -96,6 +96,8 @@ master
 
 How do you check which branch you presently have checked out?
 
+git branch
+
 15 Git what?!
 
 What is github?
