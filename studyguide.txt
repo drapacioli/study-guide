@@ -64,6 +64,12 @@ where $BRANCH_NAME is the name of the branch you wish to switch to
 
 How do you merge branches in git?
 
+git merge $BRANCH_NAME
+
+where $BRANCH_NAME is the name of the branch you wish to merge.
+
+(You may then optionally delete the branch if you no longer need it)
+
 11 Status
 
 How do you check the status of the files you are presently working on?
