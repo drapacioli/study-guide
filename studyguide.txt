@@ -5,6 +5,8 @@ Study Guide
 
 What is version control?
 
+Version control records changes made to a file or group of files over time so that one may easily view or use specific versions at a later date. A common type of version control that some may be familiar with is the "file history" feature of Windows, in which the Windows OS tracks changes to specific files which can be restored at a later date, even if the file itself is deleted or damaged beyond recognition.
+
 2 Where the heart is
 
 What is the difference between distributed and centralized version control
