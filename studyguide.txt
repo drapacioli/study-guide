@@ -12,6 +12,8 @@ Version control records changes made to a file or group of files over time so th
 What is the difference between distributed and centralized version control
 systems?
 
+In distributed version control systems, every developer has a full local copy of the repository, allowing clients to restore a server by uploading their own backup clone. In a centralized version control system, checkouts are done on a per file basis rather than as a full repository. 
+
 3 Versa who?!
 
 What does a version control program do for us?
